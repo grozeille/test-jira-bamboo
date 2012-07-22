@@ -22,6 +22,6 @@ public class People {
   }
   
   public String SayHelloTo(People other){
-    return "Hello "+other.getFirstname()+"!";
+    return "WTF "+other.getFirstname()+"!";
   }
 }
